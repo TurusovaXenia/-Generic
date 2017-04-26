@@ -1,0 +1,6 @@
+c:\users\ксения\documents\visual studio 2015\Projects\Laba7Generic\Laba7Generic\bin\Debug\Laba7Generic.exe.config
+C:\Users\Ксения\documents\visual studio 2015\Projects\Laba7Generic\Laba7Generic\obj\Debug\Laba7Generic.csprojResolveAssemblyReference.cache
+C:\Users\Ксения\documents\visual studio 2015\Projects\Laba7Generic\Laba7Generic\bin\Debug\Laba7Generic.exe
+C:\Users\Ксения\documents\visual studio 2015\Projects\Laba7Generic\Laba7Generic\bin\Debug\Laba7Generic.pdb
+C:\Users\Ксения\documents\visual studio 2015\Projects\Laba7Generic\Laba7Generic\obj\Debug\Laba7Generic.exe
+C:\Users\Ксения\documents\visual studio 2015\Projects\Laba7Generic\Laba7Generic\obj\Debug\Laba7Generic.pdb
